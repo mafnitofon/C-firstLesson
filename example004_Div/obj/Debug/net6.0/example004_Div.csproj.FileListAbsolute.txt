@@ -1,0 +1,15 @@
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\bin\Debug\net6.0\example004_Div.exe
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\bin\Debug\net6.0\example004_Div.deps.json
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\bin\Debug\net6.0\example004_Div.runtimeconfig.json
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\bin\Debug\net6.0\example004_Div.dll
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\bin\Debug\net6.0\example004_Div.pdb
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\obj\Debug\net6.0\example004_Div.csproj.AssemblyReference.cache
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\obj\Debug\net6.0\example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\obj\Debug\net6.0\example004_Div.AssemblyInfoInputs.cache
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\obj\Debug\net6.0\example004_Div.AssemblyInfo.cs
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\obj\Debug\net6.0\example004_Div.csproj.CoreCompileInputs.cache
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\obj\Debug\net6.0\example004_Div.dll
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\obj\Debug\net6.0\refint\example004_Div.dll
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\obj\Debug\net6.0\example004_Div.pdb
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\obj\Debug\net6.0\example004_Div.genruntimeconfig.cache
+D:\Documents\GeekProjekts\C_sharp\Examples\example004_Div\obj\Debug\net6.0\ref\example004_Div.dll
