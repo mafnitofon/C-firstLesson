@@ -6,6 +6,6 @@
     }
 else
     {
-        Console.Write("Ура, это же МАША!");
+        Console.Write("Привет, ");
         Console.WriteLine(username);
     }
